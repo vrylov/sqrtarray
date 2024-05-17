@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 
 public class LargeArrayMath {
 
-    static byte[] intSqrt(byte arg[]) {
+    public static byte[] intSqrt(byte arg[]) {
 
         byte workWith[] = null;
 
